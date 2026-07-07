@@ -1,0 +1,76 @@
+---
+title: |
+  ![](logo_retreat.png){width=7cm}  
+  <span class="special-font">Retreat GRBIO 2026</span><br>
+  1 i 2 de juliol (Vilanova i la Geltrú)
+output:
+  html_document:
+    theme:
+      version: 5
+    css: styles.css
+      
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(prettydoc)
+```
+
+------------------------------------------------------------------------
+
+# Contents
+
+The repository contains all the material of the RETREAT 2026 of the [GRBIO](https://grbio.upc.edu/en) research group.
+
+-   You can find the program: [HERE](Programa_XI_GRBIO_RETREAT_2026.pdf)
+
+-   A direct link to the repository web page: [HERE](https://github.com/GRBio/RETREAT2026)
+
+------------------------------------------------------------------------
+
+The folders with the different presentations of the sessions can be found here:
+
+Sessió 1: **Kick-off**
+
+-   Guadalupe Gómez: [Opertura i Presentació del Retreat](01_kick_off/01_RETREAT2025_Presentació_LupeG.pdf)
+-   Daniel Fernández: [Twitter, Newsletter i XXSS](01_kick_off/02_RETREAT2025_XXSS_DanielF.pdf)
+-   Jordi Cortés: [Contingut Web i Servidors](01_kick_off/03_RETREAT2025_Web_Content_JordiC.pdf)
+-   Cristian Tebé: [Seminaris](01_kick_off/04_RETREAT2025_Seminars_CristianT.pdf)
+-   Conxita Arenas: [GRBIO Divulga](01_kick_off/05_RETREAT2025_GRBIO_Divulga_ContxitaA.pdf)
+
+Sessió 2: **Archetypes, Archetypoids & Synthetic Data - applications in Sport and Energy**
+
+-   Nora Amama: [Complementary resemblance tests for synthetic data](02_Archetypes/01_GRBIO_retreat_Nora.pdf)
+-   Liukuan Yu: [Generating Synthetic Data via Archetypal and Archetypoid Analyses](02_Archetypes/02_GRBIO_retreat_Wellk.pdf)
+-   Daniel Fernández: [Identifying Player Prototypes in Basketball using Archetypoid Analysis](02_Archetypes/03_GRBIO_retreat_Dani.pdf)
+-   Jordi Cortés: [Future research](02_Archetypes/04_GRBIO_retreat_Jordi.pdf)
+
+Sessió 3: **The Importance of Statistics in Biodiversity and Climate Change**
+
+-   Francesc Oliva: [Differential Network Analysis (DNA): An overview (Antonio Miñarro)](03_Senior_Session/01_GRBIO_retreat_ToniMiñarro.pdf)
+-   Sergi Civit: [Assurance and power-like friends in group-sequential designs (Marta Bofill)](03_Senior_Session/02_GRBIO_retreat_Marta.pdf)
+-   Conxita Arenas: [The Importance of Statistics in Biodiversity and Climate Change](03_Senior_Session/03_GRBIO_retreat_Klaus.pdf)
+-   Jordi Ocaña: [Assurance and power-like friends in group-sequential designs (Marta Bofill)](03_Senior_Session/02_GRBIO_retreat_Marta.pdf)
+
+
+Sessió 4: **Advanced Disease Modeling & Next Generation Clinical Trials**
+
+-   Maria Lee:
+-   Pau Esteve:
+-   Andrea Toloba:
+-   João Carmezim:
+-   Santi-Pérez Hoyos:
+-   Klaus Langohr: 
+
+Sessió 5: **Taller GRBIO Divulga**
+
+-   [Taller de propostes per al GRBIO Divulga](GRBIO_Divulga.pdf)
+
+Sessió 5: **Activitat lúdica**
+
+------------------------------------------------------------------------
+
+Podreu trobar les imatges de la jornada a la nostra galeria de fotos a la [web](https://grbio.upc.edu/en/test/2025/x-retreat-2025).
+
+
+

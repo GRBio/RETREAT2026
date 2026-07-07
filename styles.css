@@ -1,0 +1,37 @@
+/* Contenidor visual del header */
+h1.title,
+h2.subtitle,
+p.date {
+  background: linear-gradient(to bottom, #153328, #48B08A);
+  color: white;
+  text-align: center;
+}
+
+h1.title img {
+  display: block;
+  margin: 0 auto -15px auto;
+}
+
+/* Espaiat superior del bloc */
+h1.title {
+  padding: 40px 20px 10px 20px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.special-font {
+   font-size: 2em;
+}
+
+/* Fer que ocupi tot l'ample */
+h1.title,
+h2.subtitle,
+p.date {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+}
+
+/* Cos blanc */
+body {
+  background-color: white;
+}
