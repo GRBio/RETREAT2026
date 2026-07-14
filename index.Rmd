@@ -49,7 +49,7 @@ Sessió 3: **The Importance of Statistics in Biodiversity and Climate Change**
 
 -   Francesc Oliva: [Differential Network Analysis (DNA): An overview (Antonio Miñarro)](03_Senior_Session/01_GRBIO_retreat_ToniMiñarro.pdf)
 -   Sergi Civit: [Assurance and power-like friends in group-sequential designs (Marta Bofill)](03_Senior_Session/02_GRBIO_retreat_Marta.pdf)
--   Conxita Arenas: [The Importance of Statistics in Biodiversity and Climate Change](03_Senior_Session/03_GRBIO_retreat_Klaus.pdf)
+-   Conxita Arenas: [The Importance of Statistics in Biodiversity and Climate Change](03_Biodiversity/Presentacio_Conxita_video.mp4)
 -   Jordi Ocaña: [Assurance and power-like friends in group-sequential designs (Marta Bofill)](03_Senior_Session/02_GRBIO_retreat_Marta.pdf)
 
 
