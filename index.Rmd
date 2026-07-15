@@ -32,11 +32,11 @@ The folders with the different presentations of the sessions can be found here:
 
 Sessió 1: **Kick-off**
 
--   Guadalupe Gómez: [Opertura i Presentació del Retreat](01_kick_off/01_RETREAT2025_Presentació_LupeG.pdf)
--   Daniel Fernández: [Twitter, Newsletter i XXSS](01_kick_off/02_RETREAT2025_XXSS_DanielF.pdf)
--   Jordi Cortés: [Contingut Web i Servidors](01_kick_off/03_RETREAT2025_Web_Content_JordiC.pdf)
--   Cristian Tebé: [Seminaris](01_kick_off/04_RETREAT2025_Seminars_CristianT.pdf)
--   Conxita Arenas: [GRBIO Divulga](01_kick_off/05_RETREAT2025_GRBIO_Divulga_ContxitaA.pdf)
+-   Guadalupe Gómez: [Opertura i Presentació del Retreat](01_Kick_off/01_RETREAT2026_Presentació_LupeG.pdf)
+-   Daniel Fernández: [Twitter, Newsletter i XXSS](01_Kick_off/02_RETREAT2026_XXSS_DanielF.pdf)
+-   Jordi Cortés: [Contingut Web i Servidors](01_Kick_off/03_RETREAT2026_Web_Content_JordiC.pdf)
+-   Cristian Tebé: [Seminaris](01_Kick_off/04_RETREAT2026_Seminars_CristianT.pdf)
+-   Conxita Arenas: [GRBIO Divulga](01_Kick_off/05_RETREAT2026_GRBIO_Divulga_ContxitaA.pdf)
 
 Sessió 2: **Archetypes, Archetypoids & Synthetic Data - applications in Sport and Energy**
 
