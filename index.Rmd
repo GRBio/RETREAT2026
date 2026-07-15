@@ -36,7 +36,7 @@ Sessió 1: **Kick-off**
 -   Daniel Fernández: [Twitter, Newsletter i XXSS](01_Kick_off/02_RETREAT2026_XXSS_DanielF.pdf)
 -   Jordi Cortés: [Contingut Web i Servidors](01_Kick_off/03_RETREAT2026_Web_Content_JordiC.pdf)
 -   Cristian Tebé: [Seminaris](01_Kick_off/04_RETREAT2026_Seminars_CristianT.pdf)
--   Conxita Arenas: [GRBIO Divulga](01_Kick_off/05_RETREAT2026_GRBIO_Divulga_ContxitaA.pdf)
+-   Conxita Arenas: [GRBIO Divulga](01_Kick_off/05_RETREAT2026_GRBIO_Divulga_ConxitaA.pdf)
 
 Sessió 2: **Archetypes, Archetypoids & Synthetic Data - applications in Sport and Energy**
 
@@ -47,10 +47,10 @@ Sessió 2: **Archetypes, Archetypoids & Synthetic Data - applications in Sport a
 
 Sessió 3: **The Importance of Statistics in Biodiversity and Climate Change**
 
--   Francesc Oliva: [Differential Network Analysis (DNA): An overview (Antonio Miñarro)](03_Biodiversity/01_GRBIO_retreat_CescO.pdf)
--   Sergi Civit: [Assurance and power-like friends in group-sequential designs (Marta Bofill)](03_Biodiversity/Museomica_Biodiversitat_Canviclimatic_S.Civit.mp4)
+-   Francesc Oliva: [Hydrosedimentary Disequilibrium, Biophysical Responses and Recovery Potential in Mediterranean Rivers](03_Biodiversity/01_GRBIO_retreat_CescO.pdf)
+-   Sergi Civit: [Museòmica, Biodiversitat i Canvi Climàtic](03_Biodiversity/Museomica_Biodiversitat_Canviclimatic_S.Civit.mp4)
 -   Conxita Arenas: [The Importance of Statistics in Biodiversity and Climate Change](03_Biodiversity/Presentacio_Conxita_video.mp4)
--   Jordi Ocaña: [Assurance and power-like friends in group-sequential designs (Marta Bofill)](03_Biodiversity/04_GRBIO_retreat_JordiO.pdf)
+-   Jordi Ocaña: [Metaboomics i SoftRSBE](03_Biodiversity/04_GRBIO_retreat_JordiO.pdf)
 
 
 Sessió 4: **Advanced Disease Modeling & Next Generation Clinical Trials**
