@@ -62,9 +62,9 @@ Sessió 4: **Advanced Disease Modeling & Next Generation Clinical Trials**
 -   Santi-Pérez Hoyos: [Modelització de a progressió front a la fragilitat: De la descripció de trajectòries a models dinàmics predictius](04_Modeling/05_GRBIO_retreat_SantiP.pdf)
 -   Klaus Langohr: [A Multi-State Modeling Framework for Complex Disease Trajectories: A Population-Based Analysis of 400,000 COVID-19 Cases in the Basque Country](04_Modeling/06_GRBIO_retreat_KlausL.pdf)
 
-Sessió 5: **Taller GRBIO Divulga**
+Sessió 5: **Taller Actualitcació Web**
 
--   [??]()
+Amb l'objectiu d'actualitzar la imatge del grup, es va organitzar una sessió fotogràfica per renovar les fotografies dels seus membres.
 
 Sessió 6: **Activitat lúdica**
 
@@ -78,7 +78,7 @@ De la mà d'**Iker Pérez**, els participants van gaudir d'un taller introductor
 
 - [Anàlisi de Dades amb Python: Exploració, Supervivència i Clustering](07_Taller_Python/Analisi_de_Dades_Python_GRBio.pdf)
 
-- [Exercicis Propussats (Google Colaboratory)](07_Taller_Python/Anàlisi_Dades_Python.ipynb)
+- [Exercicis Propossats (Google Colaboratory)](https://colab.research.google.com/drive/1PMIWWXXV1FuVmFogV-wHJ9gNhF7-afj4)
 
 - [Solucions Exercicis (Google Colaboratory)](07_Taller_Python/Solució_Anàlisi_Dades_Python.ipynb)
 
