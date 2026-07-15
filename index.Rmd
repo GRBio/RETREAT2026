@@ -78,9 +78,9 @@ De la mà d'**Iker Pérez**, els participants van gaudir d'un taller introductor
 
 - [Anàlisi de Dades amb Python: Exploració, Supervivència i Clustering](07_Taller_Python/Analisi_de_Dades_Python_GRBio.pdf)
 
-- [Exercicis Propossats (Google Colaboratory)](https://colab.research.google.com/drive/1PMIWWXXV1FuVmFogV-wHJ9gNhF7-afj4)
+- [Exercicis Propossats (Google Colaboratory)](https://drive.google.com/file/d/1PMIWWXXV1FuVmFogV-wHJ9gNhF7-afj4/view?usp=sharing)
 
-- [Solucions Exercicis (Google Colaboratory)](07_Taller_Python/Solució_Anàlisi_Dades_Python.ipynb)
+- [Solucions Exercicis (Google Colaboratory)](https://colab.research.google.com/drive/1BYFpwq2DQMJ-steHAp-_tU8jj6w4S12x?usp=sharing)
 
 Sessió 8: **Open European Calls**
 
