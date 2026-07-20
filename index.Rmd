@@ -49,7 +49,9 @@ Sessió 3: **The Importance of Statistics in Biodiversity and Climate Change**
 
 -   Francesc Oliva: [Hydrosedimentary Disequilibrium, Biophysical Responses and Recovery Potential in Mediterranean Rivers](03_Biodiversity/01_GRBIO_retreat_CescO.pdf)
 -   Sergi Civit: [Museòmica, Biodiversitat i Canvi Climàtic](03_Biodiversity/Museomica_Biodiversitat_Canviclimatic_S.Civit.mp4)
--   Conxita Arenas: [The Importance of Statistics in Biodiversity and Climate Change](03_Biodiversity/Presentacio_Conxita_video.mp4)
+-   Conxita Arenas: <a href="03_Biodiversity/Presentacio_Conxita_video.mp4" target="_blank">
+The Importance of Statistics in Biodiversity and Climate Change
+</a>
 -   Jordi Ocaña: [Metaboomics i SoftRSBE](03_Biodiversity/04_GRBIO_retreat_JordiO.pdf)
 
 
