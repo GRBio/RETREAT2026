@@ -44,7 +44,7 @@ Sessió 4: **Advanced Disease Modeling & Next Generation Clinical Trials**
 
 Sessió 5: **Taller GRBIO Divulga**
 
--   [??]()
+Amb l’objectiu d’actualitzar la imatge del grup, es va organitzar una sessió fotogràfica per renovar les fotografies dels seus membres.
 
 Sessió 6: **Activitat lúdica**
 
