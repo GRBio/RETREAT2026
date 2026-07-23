@@ -20,7 +20,7 @@ Sessió 1: **Kick-off**
 
 Sessió 2: **Archetypes, Archetypoids & Synthetic Data - applications in Sport and Energy**
 
--   Nora Amama: [Complementary resemblance tests for synthetic data](02_Archetypes/01_GRBIO_retreat_Nora.pdf)
+-   Nora Amama: [Complementary resemblance tests for synthetic data](https://www.youtube.com/watch?v=e7ckO_yPpD8&list=PLISzNCfInvcc&index=4)
 -   Liukuan Yu: [Generating Synthetic Data via Archetypal and Archetypoid Analyses](02_Archetypes/02_GRBIO_retreat_Wellk.pdf)
 -   Daniel Fernández: [Identifying Player Prototypes in Basketball using Archetypoid Analysis](02_Archetypes/03_GRBIO_retreat_Dani.pdf)
 -   Jordi Cortés: [Future research](02_Archetypes/04_GRBIO_retreat_Jordi.pdf)
@@ -28,8 +28,8 @@ Sessió 2: **Archetypes, Archetypoids & Synthetic Data - applications in Sport a
 Sessió 3: **The Importance of Statistics in Biodiversity and Climate Change**
 
 -   Francesc Oliva: [Differential Network Analysis (DNA): An overview (Antonio Miñarro)](03_Biodiversity/01_GRBIO_retreat_CescO.pdf)
--   Sergi Civit: [Assurance and power-like friends in group-sequential designs (Marta Bofill)](03_Biodiversity/Museomica_Biodiversitat_Canviclimatic_S.Civit.mp4)
--   Conxita Arenas: [The Importance of Statistics in Biodiversity and Climate Change](03_Biodiversity/Presentacio_Conxita_video.mp4)
+-   Sergi Civit: [Assurance and power-like friends in group-sequential designs (Marta Bofill)](https://www.youtube.com/watch?v=azpL3FOKfxA&list=PLISzNCfInvcc&index=2)
+-   Conxita Arenas: [The Importance of Statistics in Biodiversity and Climate Change](https://www.youtube.com/watch?v=53R4qZUw6hA&list=PLISzNCfInvcc&index=3)
 -   Jordi Ocaña: [Assurance and power-like friends in group-sequential designs (Marta Bofill)](03_Biodiversity/04_GRBIO_retreat_JordiO.pdf)
 
 
@@ -38,7 +38,7 @@ Sessió 4: **Advanced Disease Modeling & Next Generation Clinical Trials**
 -   Maria Lee: [Sample size reestimation in two-arm trials using doubly robust estimators for marginal treatment effects](04_Modeling/01_GRBIO_retreat_MariaL.pdf)
 -   Pau Esteve: [Easy Reproducible Longitudinal Modelling in Clinical Research](04_Modeling/02_GRBIO_retreat_PauE.pdf)
 -   Andrea Toloba: [Generalized linear model with two correlated interval-censored covariates linked by a Gumbel copula](04_Modeling/03_GRBIO_retreat_AndreaT.pdf)
--   João Carmezim: [Risk profiles in hospitalized subjects with acute viral respiratory illness](04_Modeling/JC_RetreatGRBIO.mp4)
+-   João Carmezim: [Risk profiles in hospitalized subjects with acute viral respiratory illness]([04_Modeling/JC_RetreatGRBIO.mp4](https://www.youtube.com/watch?v=TuDjvJkyTnc))
 -   Santi-Pérez Hoyos: [Modelització de a progressió front a la fragilitat: De la descripció de trajectòries a models dinàmics predictius](04_Modeling/05_GRBIO_retreat_SantiP.pdf)
 -   Klaus Langohr: [A Multi-State Modeling Framework for Complex Disease Trajectories: A Population-Based Analysis of 400,000 COVID-19 Cases in the Basque Country](04_Modeling/06_GRBIO_retreat_KlausL.pdf)
 
